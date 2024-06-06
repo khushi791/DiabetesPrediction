@@ -1,0 +1,2 @@
+Hi there I am Revatish Sur currently pursuing intership from INTERPE , so i would like to give you look over on my first project.
+The "Diabetes Prediction with ML" project uses machine learning techniques in Python to predict whether a person has diabetes based on certain health metrics. It involves preprocessing the data, selecting a suitable machine learning algorithm, training the model, evaluating its performance, and potentially deploying it for real-world use. This project demonstrates the application of ML in healthcare for early diagnosis and treatment of diabetes
